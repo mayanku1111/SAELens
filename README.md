@@ -7,6 +7,7 @@ You can perform contrastive analysis with the following script:
 python SAELens/blimp_contrast_analysis_multigpu.py
 
 ```
+Methods to run it in different way is given in script
 
 
 
