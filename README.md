@@ -1,3 +1,27 @@
+
+# Contrastive Analysis
+
+You can perform contrastive analysis with the following script:
+
+```bash
+python SAELens/blimp_contrast_analysis_multigpu.py
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="1308" height="532" alt="saes_pic" src="https://github.com/user-attachments/assets/2a5d752f-b261-4ee4-ad5d-ebf282321371" />
 
 # SAE Lens
